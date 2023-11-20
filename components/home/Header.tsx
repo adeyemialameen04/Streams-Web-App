@@ -87,7 +87,7 @@ const Header = () => {
             </div>
           </div>
           <div className="flex flex-col items-end md:flex-row gap-4 h-full">
-            <div className="relative h-[300px] md:h-[360px] rounded-lg w-[100%] mix-blend-lighten overflow-hidden after:content-[''] after:bg-[rgba(0,0,0,0.4)] inset-0 after:w-full after:h-full isolate after:z-[-1] after:absolute z-10">
+            <div className="relative h-[300px] md:h-[360px] dark:mix-blend-lighten mix-blend-multiply rounded-lg w-[100%] overflow-hidden after:content-[''] after:bg-[rgba(0,0,0,0.3)] inset-0 after:w-full after:h-full isolate after:z-[-1] after:absolute">
               <Image
                 src={Rectangle18}
                 alt="header"
@@ -101,7 +101,7 @@ const Header = () => {
                 Natural disasters in urban & rural areas.
               </p>
             </div>
-            <div className="relative h-[300px] md:h-[360px] rounded-lg w-[100%] mix-blend-lighten overflow-hidden after:content-[''] after:bg-[rgba(0,0,0,0.4)] inset-0 after:w-full after:h-full isolate after:z-[-1] after:absolute z-10">
+            <div className="relative h-[300px] md:h-[360px] dark:mix-blend-lighten mix-blend-multiply rounded-lg w-[100%] overflow-hidden after:content-[''] after:bg-[rgba(0,0,0,0.3)] inset-0 after:w-full after:h-full isolate after:z-[-1] after:absolute">
               <Image
                 src={Rectangle17}
                 alt="header"
