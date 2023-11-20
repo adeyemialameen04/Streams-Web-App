@@ -15,7 +15,7 @@ const WaysToHelp = () => {
         </h4>
         <p className="font-medium text-sm md:text-lg dark:text-white">
           This goal is ambitious, but we know it&apos;s achievable with your
-          help. Here's how you can take action today
+          help. Here&apos;s how you can take action today
         </p>
       </div>
       <div>
