@@ -13,11 +13,11 @@ const Testimonials = () => {
       <GridContainer className="max-w-none gap-9">
         <div className="flex gap-14 flex-col">
           <p className="leading-10 text-[1.3rem] dark:text-white">
-            “"This platform is a Godsend! It's a portal for volunteers to
-            connect with people in need. My family has been in critical health
-            condition for almost a year but this platform made it so easy for me
-            and connected me with people willing to help, as i am not so stable
-            financially."
+            &apos;&apos;This platform is a Godsend! It&apos;s a portal for
+            volunteers to connect with people in need. My family has been in
+            critical health condition for almost a year but this platform made
+            it so easy for me and connected me with people willing to help, as i
+            am not so stable financially.&apos;
           </p>
           <div className="flex flex-col gap-2">
             <p className="text-teal text-[1.3rem]">Mariam. C</p>
